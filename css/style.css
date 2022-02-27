@@ -90,6 +90,7 @@ section{
 
 #left-hand, #right-hand{
     width: 400px;
+    z-index: 1;
 }
 
 #left-hand:hover, #right-hand:hover{
