@@ -1,4 +1,4 @@
-const image = document.querySelector("#blah");
+const image = document.querySelector("#user-photo");
 const leftHand = document.getElementById("left-hand"); 
 const rightHand = document.getElementById("right-hand"); 
 const fileInput = document.querySelector("#file-input"); 

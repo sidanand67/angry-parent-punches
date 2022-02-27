@@ -71,13 +71,13 @@ section{
     align-items: flex-end;
 }
 
-#blah{
+#user-photo{
     margin: 2.5rem; 
     width: 350px; 
     height: 350px;
     border-radius: 10px;
     border: 1px solid white;
-    position: relative;
+    position: relative; 
 }
 
 #bam{
