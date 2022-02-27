@@ -69,6 +69,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    position: relative;
 }
 
 #user-photo{
@@ -77,13 +78,12 @@ section{
     height: 350px;
     border-radius: 10px;
     border: 1px solid white;
-    position: relative; 
 }
 
 #bam{
     visibility: hidden;
     position: absolute; 
-    top: 0; 
+    top: 10%; 
     width: 325px; 
     height: 300px; 
 }
